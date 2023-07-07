@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<p>🎓 I am a _Full Stack Web-and App Development_ trainee @WBS Coding School and a _software development_ student _@42Wolfsburg_-which is a part of the renowned 42École.</p>
-<p>🌱 I am currently learning _SQL & ReactJS_.</p>
+<p>🎓 I am a <strong>Full Stack Web-and App Development</strong> trainee <strong>@WBS Coding School</strong> and a <strong>software development student @42Wolfsburg</strong>- is a part of the renowned 42École.
+</p>
+<p>🌱 I am currently learning <strong>SQL & ReactJS</strong>.</p>
 
 
 [!GitHub Activity Graph(https://activity-graph.herokuapp.com/graph?username=GulenayMer&theme=dracula&hide_border=true)]:#
