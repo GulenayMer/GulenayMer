@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-<tr>
-  <td valign="center">
-    🎓 I am a **Full Stack Web-and App Development** trainee @WBS Coding School and a **software development** student **@42Wolfsburg**-which is a part of the renowned 42École.
-    🌱 I am currently learning **SQL & ReactJS **.
-<td >
-  </td></tr>
-</table>
+
+<p>🎓 I am a **Full Stack Web-and App Development** trainee @WBS Coding School and a **software development** student **@42Wolfsburg**-which is a part of the renowned 42École.</p>
+<p>🌱 I am currently learning **SQL & ReactJS **.</p>
 
 
 [!GitHub Activity Graph(https://activity-graph.herokuapp.com/graph?username=GulenayMer&theme=dracula&hide_border=true)]:#
@@ -36,5 +31,5 @@ Here are some ideas to get you started:
 
 
 ## Stats📈 <p align="center"> 
- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=GulenayMer&show_icons=true&theme=radical" alt="GulenayMer"/>  <img width="40%" heigth="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GulenayMer&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="GulenayMer"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GulenayMer&theme=highcontrast&hide_border=true" alt="GulenayMer" />
+ <img width="40%" src="https://github-readme-stats.vercel.app/api?username=GulenayMer&show_icons=true&theme=radical" alt="GulenayMer"/> 
 <!--  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GulenayMer&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="GulenayMer"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GulenayMer&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="GulenayMer" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GulenayMer&theme=highcontrast&hide_border=true" alt="GulenayMer" />  --></p>
