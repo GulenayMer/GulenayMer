@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p>🎓 I am a <strong>Full Stack Web-and App Development</strong> trainee <strong>@WBS Coding School</strong> and a <strong>software development student @42Wolfsburg</strong>- is a part of the renowned 42École.
+<p>🎓 I am a <strong>Full Stack Web-and App Development</strong> trainee <strong>@WBS Coding School</strong> and a <strong>software development student @42Wolfsburg.</strong>
 </p>
 <p>🌱 I am currently learning <strong>SQL & ReactJS</strong>.</p>
 
